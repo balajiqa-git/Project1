@@ -39,7 +39,7 @@ public class Alert {
 
         alert2.dismiss();
 
-        Thread.sleep(5000);
+        Thread.sleep(6000);
 
         driver.quit();
 

@@ -44,7 +44,7 @@ public class Java {
 
         }
 
-        System.out.println(count + "count of dvowals");
+        System.out.println(count + "count of vowals");
 
         System.out.println(list1 + " duplicate");
 

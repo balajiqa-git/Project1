@@ -1,4 +1,4 @@
-package a2Page;
+package a1Page;
 
 import a1Base.Base1;
 import org.openqa.selenium.By;

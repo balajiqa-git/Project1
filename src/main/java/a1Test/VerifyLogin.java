@@ -1,7 +1,7 @@
-package a3Test;
+package a1Test;
 
 import a1Base.Base1;
-import a2Page.LoginSalesforce;
+import a1Page.LoginSalesforce;
 import org.testng.annotations.Test;
 
 public class VerifyLogin extends Base1 {
